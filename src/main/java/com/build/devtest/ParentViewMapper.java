@@ -6,3 +6,4 @@ public interface ParentViewMapper {
 
 	List<ParentView> mapRowsToViews(List<ParentRow> parentRows, List<ChildRow> childRows);
 }
+
